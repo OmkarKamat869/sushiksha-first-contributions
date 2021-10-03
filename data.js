@@ -658,7 +658,7 @@ const team = [
         college: "SDM College of Engineering and Technology",
         batch: 2020,
         quote: "Don't wait for opportunities, create your own",
-        photo: "<a href="https://ibb.co/8mw7Qnn"><img src="https://i.ibb.co/TwGgNDD/20210909-155711.jpg" alt="20210909-155711" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload images</a><br />",
+        photo: "https://i.ibb.co/TwGgNDD/20210909-155711.jpg",
         github: "https://github.com/OmkarKamat869",
     },
 
